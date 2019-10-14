@@ -1,0 +1,17 @@
+Package: rirs
+Title: Access Publicly Available IRS Data
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Michael",
+           family = "DeWitt",
+           role = c("aut", "cre"),
+           email = "me.dewitt.jr@gmail.com",
+           comment = c(ORCID = "0000-0001-8940-1967"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    utils,
+    readr,
+    readxl
