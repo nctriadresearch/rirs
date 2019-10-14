@@ -8,6 +8,8 @@
 
 get_soi <- function(year, state, msa = FALSE){
 
+
+
 	if(msa){
 		irs_url <- paste0("https://www.irs.gov/pub/irs-soi/",year,"incbsa.csv")
 

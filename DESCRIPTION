@@ -15,3 +15,4 @@ Imports:
     utils,
     readr,
     readxl
+RoxygenNote: 6.1.1
